@@ -15,7 +15,9 @@
     "jsonp": "^0.2.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
-    "webpack-dev-server": "^2.9.1"
+    "webpack-dev-server": "^2.9.1",
+    "better-scroll": "^0.1.15",
+    "axios": "^0.16.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -54,7 +56,8 @@
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-merge": "^4.1.0",
     "stylus": "^0.54.5",
-    "stylus-loader": "^2.1.1"
+    "stylus-loader": "^2.1.1",
+    "express": "^4.14.1"
   },
   "engines": {
     "node": ">= 6.0.0",
